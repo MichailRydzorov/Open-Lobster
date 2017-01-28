@@ -1,0 +1,14 @@
+<head>
+  <title>Open Lobster</title>
+</head>
+
+<body>
+  <div class="container">
+    {{> new_post}}
+    <div class="postContainer">
+      {{#each posts}}
+        {{> post}}
+      {{/each}}
+    </div>
+  </div>
+</body>
