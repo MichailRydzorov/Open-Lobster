@@ -1,5 +1,5 @@
 {
-  "name": "Open-Lobster",
+  "name": "OpenLobster",
   "private": true,
   "scripts": {
     "start": "meteor run"
